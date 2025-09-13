@@ -1,6 +1,6 @@
-Feedback Rush
+# Feedback Rush
 
-How it plays
+# How it plays
 
 Move, collect, spawn a ghost of yourself, survive the chaos.
 
@@ -8,7 +8,7 @@ Ghosts loop slices of your movement at increasing speed, turning your skill into
 
 No two runs are alike—your path is the level.
 
-Features
+# Features
 
 Tight, responsive movement with friction.
 
@@ -20,10 +20,10 @@ Procedural retro SFX, clean visuals, subtle camera shake.
 
 Multiple modes: Classic, Time Attack, Nightmare.
 
-Runs on Linux, Windows, macOS (built with macroquad
+Runs on Linux and Windows, (built with macroquad
 ).
 
-Controls
+# Controls
 
 Move: WASD / Arrows
 
@@ -34,3 +34,5 @@ Restart: Enter
 Menu: Esc
 
 Fullscreen: F11
+
+**copyright?** see  ' license'
