@@ -1,0 +1,13 @@
+[package]
+name = "feedback-rush"
+version = "0.1.0"
+edition = "2021"
+authors = ["compiledkernel-idk"]
+description = "Feedback Rush — a reflex arena about outmaneuvering your past selves."
+license = "MIT"
+repository = "https://github.com/compiledkernel-idk/feedback-rush"
+readme = "README.md"
+
+[dependencies]
+macroquad = "0.4"
+
