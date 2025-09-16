@@ -35,4 +35,4 @@ Menu: Esc
 
 Fullscreen: F11
 
-**copyright?** see  ' license'
+**copyright?** see  `license`
